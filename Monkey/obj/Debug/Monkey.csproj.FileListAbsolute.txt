@@ -1,0 +1,7 @@
+C:\Users\Матвей\Documents\Visual Studio 2017\Projects\Monkey\Monkey\bin\Debug\Monkey.exe.config
+C:\Users\Матвей\Documents\Visual Studio 2017\Projects\Monkey\Monkey\bin\Debug\Monkey.exe
+C:\Users\Матвей\Documents\Visual Studio 2017\Projects\Monkey\Monkey\bin\Debug\Monkey.pdb
+C:\Users\Матвей\Documents\Visual Studio 2017\Projects\Monkey\Monkey\obj\Debug\Monkey.csprojResolveAssemblyReference.cache
+C:\Users\Матвей\Documents\Visual Studio 2017\Projects\Monkey\Monkey\obj\Debug\Monkey.csproj.CoreCompileInputs.cache
+C:\Users\Матвей\Documents\Visual Studio 2017\Projects\Monkey\Monkey\obj\Debug\Monkey.exe
+C:\Users\Матвей\Documents\Visual Studio 2017\Projects\Monkey\Monkey\obj\Debug\Monkey.pdb
